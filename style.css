@@ -5,11 +5,11 @@
 }
 
 body {
-    background-image: url('image/bg.jpg');
+    background-image: url('bg.jpg');
 }
 
 .navbar {
-    background-image: url('image/b1.jpg');
+    background-image: url('b1.jpg');
     height: 72px;
     display: flex;
     align-items: center;
